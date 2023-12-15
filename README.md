@@ -1,1 +1,2 @@
-In this repository u can find basic js interview questions and string and array methods.I have solved some codewars questions as well.Go check it have fun!😁
+
+-> Welcome to this repository where you'll discover fundamental JavaScript interview questions alongside solutions for string and array methods. Additionally, you'll find my solutions to various CodeWars questions. Feel free to explore and enjoy! 😁
